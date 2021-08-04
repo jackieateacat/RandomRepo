@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03144198f1522b145b1900a7deea37e8, type: 3}
+  m_Name: NewArmor 1
+  m_EditorClassIdentifier: 
+  itemName: Another Armor
+  itemDescription: 
+  itemType: 2
+  stackable: 0
+  itemSprite: {fileID: 9217239630791017457, guid: 030946bb171e0514ca4e51e706baa960,
+    type: 3}
+  baseArmor: 0
